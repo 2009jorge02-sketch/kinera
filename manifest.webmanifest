@@ -1,0 +1,19 @@
+{
+  "name": "KINERA",
+  "short_name": "KINERA",
+  "lang": "es-ES",
+  "start_url": "/kinera/",
+  "scope": "/kinera/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070A0F",
+  "theme_color": "#070A0F",
+  "icons": [
+    {
+      "src": "/kinera/kinera-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
